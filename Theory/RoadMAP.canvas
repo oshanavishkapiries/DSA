@@ -22,7 +22,7 @@
 		{"id":"402445a8bfcef4aa","type":"text","text":"02.LinkedList","x":-1250,"y":555,"width":250,"height":60,"color":"5"},
 		{"id":"cb698807a9548ace","type":"text","text":"03.Stack","x":-1250,"y":702,"width":250,"height":60,"color":"5"},
 		{"id":"ba0dbb4e4abcd229","type":"text","text":"04.Queues","x":-1250,"y":849,"width":250,"height":60,"color":"5"},
-		{"id":"a64aa5f8553fa5e9","type":"text","text":"05.Dec","x":-1250,"y":996,"width":250,"height":63,"color":"5"},
+		{"id":"a64aa5f8553fa5e9","type":"text","text":"05.Deque","x":-1250,"y":996,"width":250,"height":63,"color":"5"},
 		{"id":"55945d527b320dcb","type":"text","text":"Time Complexity","x":-1461,"y":-142,"width":250,"height":60,"color":"5"},
 		{"id":"7fea5a11ee820a21","type":"text","text":"01.Complexities","x":-1030,"y":-338,"width":250,"height":60,"color":"3"},
 		{"id":"005bdb0970c490eb","type":"text","text":"Space Complexity","x":-1030,"y":-142,"width":250,"height":60,"color":"5"},
