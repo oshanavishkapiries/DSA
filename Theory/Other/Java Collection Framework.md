@@ -3,7 +3,7 @@
 
 - It includes **data structures** like lists, sets, queues, and maps that help manage collections of data efficiently.
 
-![[cfm.png]]
+![[Pasted image 202409121605468.png]]
 
 ### Collections Framework 
 
