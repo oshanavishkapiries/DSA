@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "49aab631eff4d0ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "651413b7eabb0f9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e86edb70a558a420",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theory/Other/Strings and StringBuilder/01.Introduction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "601b7da58b824d73",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0e8f179c087782e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "842920f3c0bb138e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2846bbc141eeb5b8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eebf5d8a7bf9d775",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "afab80ef8d1617a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee905fc9d0328293",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0cdede6455779823",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Theory/Other/Strings and StringBuilder/01.Introduction.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7a3f0186891e8cac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Theory/Other/Strings and StringBuilder/01.Introduction.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "51dc208416f65ebb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7ae72b56d0180949",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Theory/Other/Strings and StringBuilder/01.Introduction.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e86edb70a558a420",
+  "lastOpenFiles": [
+    "Theory/Other/Strings and StringBuilder/String.md",
+    "Theory/Data Structures/Data structures.md",
+    "Theory/Data Structures/01.Arrays/Arrays.md",
+    "Theory/Data Structures/01.Arrays/01.Introduction.md",
+    "Theory/Other/Strings and StringBuilder/01.Introduction.md",
+    "Theory/Data Structures/01.Arrays/02.Internal Working of an Array.md",
+    "Theory/Other/Strings and StringBuilder/02.String Comparison.md",
+    "Theory/Other/Strings and StringBuilder/03.String Creation.md",
+    "Theory/Other/Strings and StringBuilder/04.String Concatenation.md",
+    "Theory/Other/Strings and StringBuilder/05.PrintStream Class.md",
+    "Theory/Other/Strings and StringBuilder/09. String challenges.md",
+    "Assets/Images/String class.png",
+    "Assets/Images/Screenshot 2024-09-16 173430.png",
+    "Assets/Images/Pasted image 20240916173606.png",
+    "Assets/Images/Pasted image 202409121605462.png",
+    "Assets/Images/Pasted image 202409121605461.png",
+    "Assets/Images/Pasted image 20240912162349.png",
+    "Assets/Images/Pasted image 20240912161730.png",
+    "Assets/Images/Pasted image 20240912161135.png",
+    "Assets/Images/Pasted image 20240912160546.png"
+  ]
+}
