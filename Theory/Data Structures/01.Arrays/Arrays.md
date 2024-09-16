@@ -1,0 +1,8 @@
+[[Theory/Data Structures/01.Arrays/01.Introduction|01.Introduction]]
+[[02.Internal Working of an Array]]
+[[03.How to Use an Array]]
+[[04.Fixed Array Growth Technique]]
+[[05.Multidimensional Arrays]]
+[[06.ArrayList(Dynamic Arrays)]]
+[[07.How to Use an ArrayList]]
+[[08.Coding challenges]]
