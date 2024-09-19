@@ -5,5 +5,6 @@
 [[05.PrintStream Class]]
 [[06.Pretty Printing]]
 [[07.toString()]]
-[[08.StringBuilder]]
-[[09. String challenges]]
+[[08.String methods]]
+[[09.StringBuilder]]
+[[10. String challenges]]

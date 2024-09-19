@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "651413b7eabb0f9b",
+        "id": "7f5c43d3c2466e75",
         "type": "tabs",
         "children": [
           {
-            "id": "e86edb70a558a420",
+            "id": "237eb9af5396b413",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theory/Other/Strings and StringBuilder/01.Introduction.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theory/Other/Strings and StringBuilder/01.Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theory/Other/Strings and StringBuilder/01.Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Theory/Other/Strings and StringBuilder/01.Introduction.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,19 +138,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e86edb70a558a420",
+  "active": "237eb9af5396b413",
   "lastOpenFiles": [
+    "Theory/Data Structures/01.Arrays/08.Coding challenges.md",
+    "Theory/Data Structures/01.Arrays/07.How to Use an ArrayList.md",
+    "Theory/Data Structures/01.Arrays/06.ArrayList(Dynamic Arrays).md",
+    "Theory/Data Structures/01.Arrays/05.Multidimensional Arrays.md",
+    "Theory/Data Structures/01.Arrays/04.Fixed Array Growth Technique.md",
+    "Theory/Data Structures/01.Arrays/03.How to Use an Array.md",
+    "Theory/Data Structures/01.Arrays/02.Internal Working of an Array.md",
+    "Theory/Data Structures/01.Arrays/01.Introduction.md",
     "Theory/Other/Strings and StringBuilder/String.md",
+    "Theory/Other/Strings and StringBuilder/08.String methods.md",
+    "Theory/Other/Strings and StringBuilder/10. String challenges.md",
+    "Theory/Other/Strings and StringBuilder/09.StringBuilder.md",
+    "Theory/Other/Strings and StringBuilder/07.toString().md",
+    "Theory/Other/Strings and StringBuilder/05.PrintStream Class.md",
+    "Theory/Other/Strings and StringBuilder/06.Pretty Printing.md",
+    "Theory/RoadMAP.canvas",
+    "Theory/Other/Strings and StringBuilder/04.String Concatenation.md",
+    "Theory/Other/Strings and StringBuilder/03.String Creation.md",
+    "Theory/Other/Strings and StringBuilder/02.String Comparison.md",
+    "Theory/Other/Strings and StringBuilder/01.introduction.md",
+    "Theory/Other/Java Collection Framework.md",
     "Theory/Data Structures/Data structures.md",
     "Theory/Data Structures/01.Arrays/Arrays.md",
-    "Theory/Data Structures/01.Arrays/01.Introduction.md",
+    "Theory/Data Structures/02.LinkedList/LinkedList.md",
     "Theory/Other/Strings and StringBuilder/01.Introduction.md",
-    "Theory/Data Structures/01.Arrays/02.Internal Working of an Array.md",
-    "Theory/Other/Strings and StringBuilder/02.String Comparison.md",
-    "Theory/Other/Strings and StringBuilder/03.String Creation.md",
-    "Theory/Other/Strings and StringBuilder/04.String Concatenation.md",
-    "Theory/Other/Strings and StringBuilder/05.PrintStream Class.md",
-    "Theory/Other/Strings and StringBuilder/09. String challenges.md",
     "Assets/Images/String class.png",
     "Assets/Images/Screenshot 2024-09-16 173430.png",
     "Assets/Images/Pasted image 20240916173606.png",
