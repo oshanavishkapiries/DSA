@@ -16,7 +16,6 @@
 		{"id":"967f38238c8d54c1","type":"text","text":"Advance","x":-216,"y":293,"width":250,"height":60,"color":"3"},
 		{"id":"87fcfdd2d9739bf3","type":"text","text":"02.Graph","x":-31,"y":469,"width":250,"height":60,"color":"5"},
 		{"id":"ba05e77562e5aec4","type":"text","text":"Data Structure","x":-372,"y":-169,"width":250,"height":60,"color":"4"},
-		{"id":"38ec373bcdfcffbd","type":"text","text":"DSA","x":-216,"y":-520,"width":250,"height":60,"color":"1"},
 		{"id":"977fe7ce1bb5a8ec","type":"text","text":"01.Array","x":-1250,"y":408,"width":250,"height":60,"color":"5"},
 		{"id":"0537e7c98482f1db","type":"text","text":"06.HashMaps","x":-1250,"y":1145,"width":250,"height":60,"color":"5"},
 		{"id":"402445a8bfcef4aa","type":"text","text":"02.LinkedList","x":-1250,"y":555,"width":250,"height":60,"color":"5"},
@@ -39,7 +38,8 @@
 		{"id":"8dac975733457508","type":"text","text":"Linearithmic time","x":-2710,"y":7,"width":250,"height":60,"color":"6"},
 		{"id":"1198d81ac967a411","type":"text","text":"Big-O Notation (O)","x":-1711,"y":66,"width":250,"height":60,"color":"2"},
 		{"id":"fa05ac49b4d68a2d","type":"text","text":"Omega Notation (Ω)","x":-1711,"y":156,"width":250,"height":60,"color":"2"},
-		{"id":"1e2116abb9732af6","type":"text","text":"Theta Notation (Θ)","x":-1711,"y":246,"width":250,"height":60,"color":"2"}
+		{"id":"1e2116abb9732af6","type":"text","text":"Theta Notation (Θ)","x":-1711,"y":246,"width":250,"height":60,"color":"2"},
+		{"id":"38ec373bcdfcffbd","type":"text","text":"DSA","x":-160,"y":-544,"width":250,"height":60,"color":"1"}
 	],
 	"edges":[
 		{"id":"604d174a44f1aaa6","fromNode":"38ec373bcdfcffbd","fromSide":"bottom","toNode":"ba05e77562e5aec4","toSide":"top"},
