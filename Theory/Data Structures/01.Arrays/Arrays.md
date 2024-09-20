@@ -5,4 +5,4 @@
 [[05.Multidimensional Arrays]]
 [[06.ArrayList(Dynamic Arrays)]]
 [[07.How to Use an ArrayList]]
-[[08.Coding challenges]]
+[[08.Coding challenges (LeetCode)]]
