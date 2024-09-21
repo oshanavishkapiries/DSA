@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "95d131cfdc182b5d",
+        "id": "2e97e388f5d7a332",
         "type": "tabs",
         "children": [
           {
@@ -18,6 +18,16 @@
             }
           },
           {
+            "id": "70d355d6fcfc4574",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Assets/Resources/Data Structures and Algorithms in Java, 6th Edition.pdf"
+              }
+            }
+          },
+          {
             "id": "da2252f64199e431",
             "type": "leaf",
             "state": {
@@ -25,15 +35,15 @@
               "state": {
                 "file": "Theory/RoadMAP.canvas",
                 "viewState": {
-                  "x": 1345.6211728485075,
-                  "y": 27.476724718847787,
-                  "zoom": -0.7292934715328898
+                  "x": -408.8532098895598,
+                  "y": 230.97274534125904,
+                  "zoom": -2.3364276645824775
                 }
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -83,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 365.5
+    "width": 203.5
   },
   "right": {
     "id": "afab80ef8d1617a9",
@@ -147,8 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,17 +169,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da2252f64199e431",
+  "active": "842920f3c0bb138e",
   "lastOpenFiles": [
-    "Assets/Resources/Data Structures And Algorithms Made Easy - Narasimha Karumanchi.pdf",
+    "README.md",
+    "2024-09-21.md",
     "Theory/RoadMAP.canvas",
     "Assets/Resources/Data Structures and Algorithms in Java, 6th Edition.pdf",
+    "Assets/Resources/Data Structures And Algorithms Made Easy - Narasimha Karumanchi.pdf",
+    "Theory/Data Structures/Data structures.md",
+    "Assets/Resources/Competitive Programmers Handbook.pdf",
     "Assets/Resources/Data Structures And Algorithms Made Easy - narasimha karumanchi.pdf",
     "Assets/Resources/DSA - narasimha karumanchi.pdf",
     "Assets/Resources/Competitive Programmers Handbook.md",
-    "2024-09-21.md",
-    "Competitive Programmers Handbook.pdf",
-    "README.md",
     "Assets/Images/Pasted image 20240920223538.png",
     "Assets/Images/Pasted image 20240916173606.png",
     "Assets/Resources/Untitled/Untitled.md",
@@ -183,7 +193,6 @@
     "Theory/Data Structures/01.Arrays/08.Coding challenges (LeetCode).md",
     "Theory/Data Structures/01.Arrays/06.ArrayList(Dynamic Arrays).md",
     "Theory/Data Structures/01.Arrays/07.How to Use an ArrayList.md",
-    "Theory/Data Structures/Data structures.md",
     "Assets/Images/Time Complexities.md",
     "Theory/Other/Strings and StringBuilder/08.String methods.md",
     "Theory/Other/Strings and StringBuilder/07.toString().md",
