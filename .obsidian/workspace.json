@@ -1,14 +1,16 @@
 {
   "main": {
-    "id": "49aab631eff4d0ca",
+    "id": "dda92cf9337674ab",
     "type": "split",
     "children": [
       {
-        "id": "2e97e388f5d7a332",
+
+        "id": "2b493d37136176c9",
         "type": "tabs",
         "children": [
           {
-            "id": "8dc80c6b8e21b4b0",
+            "id": "786688553a6642c9",
+
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -49,15 +51,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "601b7da58b824d73",
+    "id": "aadbda5ece4d7765",
     "type": "split",
     "children": [
       {
-        "id": "c0e8f179c087782e",
+        "id": "14420bfda48e525e",
         "type": "tabs",
         "children": [
           {
-            "id": "842920f3c0bb138e",
+            "id": "c8f65c8788fb88af",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -67,7 +69,7 @@
             }
           },
           {
-            "id": "2846bbc141eeb5b8",
+            "id": "765c87910052bc94",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -82,7 +84,7 @@
             }
           },
           {
-            "id": "eebf5d8a7bf9d775",
+            "id": "c42e7857d3309c96",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -96,15 +98,15 @@
     "width": 203.5
   },
   "right": {
-    "id": "afab80ef8d1617a9",
+    "id": "e6e0328ff8b2fdda",
     "type": "split",
     "children": [
       {
-        "id": "ee905fc9d0328293",
+        "id": "a8f85f43a9257546",
         "type": "tabs",
         "children": [
           {
-            "id": "0cdede6455779823",
+            "id": "9c11c417a35d01a2",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -121,7 +123,7 @@
             }
           },
           {
-            "id": "7a3f0186891e8cac",
+            "id": "25302130474809a3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -133,7 +135,7 @@
             }
           },
           {
-            "id": "51dc208416f65ebb",
+            "id": "76ef6aa0127f6c5a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -144,7 +146,7 @@
             }
           },
           {
-            "id": "7ae72b56d0180949",
+            "id": "dc6590b4fa4014dd",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -169,6 +171,7 @@
       "command-palette:Open command palette": false
     }
   },
+
   "active": "842920f3c0bb138e",
   "lastOpenFiles": [
     "README.md",
@@ -194,6 +197,7 @@
     "Theory/Data Structures/01.Arrays/06.ArrayList(Dynamic Arrays).md",
     "Theory/Data Structures/01.Arrays/07.How to Use an ArrayList.md",
     "Assets/Images/Time Complexities.md",
+
     "Theory/Other/Strings and StringBuilder/08.String methods.md",
     "Theory/Other/Strings and StringBuilder/07.toString().md",
     "Theory/Other/Strings and StringBuilder/06.Pretty Printing.md",
@@ -202,6 +206,7 @@
     "Theory/Other/Strings and StringBuilder/03.String Creation.md",
     "Theory/Other/Strings and StringBuilder/02.String Comparison.md",
     "Theory/Other/Strings and StringBuilder/01.introduction.md",
+
     "Assets/Images/String class.png",
     "Assets/Images/Pasted image 202409121605468.png",
     "Assets/Images/Pasted image 20240912160546.png",
@@ -214,5 +219,6 @@
     "Untitled.md",
     "Theory/Data Structures/01.Arrays/08.Coding challenges.md",
     "Theory/Data Structures/01.Arrays/05.Multidimensional Arrays.md"
+
   ]
 }
