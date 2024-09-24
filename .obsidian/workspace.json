@@ -4,18 +4,48 @@
     "type": "split",
     "children": [
       {
+
         "id": "2b493d37136176c9",
         "type": "tabs",
         "children": [
           {
             "id": "786688553a6642c9",
+
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Assets/Resources/Data Structures And Algorithms Made Easy - Narasimha Karumanchi.pdf"
+              }
+            }
+          },
+          {
+            "id": "70d355d6fcfc4574",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Assets/Resources/Data Structures and Algorithms in Java, 6th Edition.pdf"
+              }
+            }
+          },
+          {
+            "id": "da2252f64199e431",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Theory/RoadMAP.canvas",
+                "viewState": {
+                  "x": -408.8532098895598,
+                  "y": 230.97274534125904,
+                  "zoom": -2.3364276645824775
+                }
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -65,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 203.5
   },
   "right": {
     "id": "e6e0328ff8b2fdda",
@@ -81,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Theory/RoadMAP.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Theory/RoadMAP.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,15 +150,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Theory/RoadMAP.canvas"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,14 +171,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "786688553a6642c9",
+
+  "active": "842920f3c0bb138e",
   "lastOpenFiles": [
     "README.md",
+    "2024-09-21.md",
     "Theory/RoadMAP.canvas",
-    "Theory/Other/Java Collection Framework.md",
-    "Theory/Other/Strings and StringBuilder/String.md",
-    "Theory/Other/Strings and StringBuilder/10. String challenges.md",
-    "Theory/Other/Strings and StringBuilder/09.StringBuilder.md",
+    "Assets/Resources/Data Structures and Algorithms in Java, 6th Edition.pdf",
+    "Assets/Resources/Data Structures And Algorithms Made Easy - Narasimha Karumanchi.pdf",
+    "Theory/Data Structures/Data structures.md",
+    "Assets/Resources/Competitive Programmers Handbook.pdf",
+    "Assets/Resources/Data Structures And Algorithms Made Easy - narasimha karumanchi.pdf",
+    "Assets/Resources/DSA - narasimha karumanchi.pdf",
+    "Assets/Resources/Competitive Programmers Handbook.md",
+    "Assets/Images/Pasted image 20240920223538.png",
+    "Assets/Images/Pasted image 20240916173606.png",
+    "Assets/Resources/Untitled/Untitled.md",
+    "Assets/Resources/Untitled",
+    "Theory/Data Structures/01.Arrays/01.Introduction.md",
+    "Theory/Data Structures/02.LinkedList/09.Coding challenges (HackerRank).md",
+    "Theory/Data Structures/02.LinkedList/LinkedList.md",
+    "Theory/Data Structures/01.Arrays/Arrays.md",
+    "Theory/Data Structures/01.Arrays/09.Coding challenges (HackerRank).md",
+    "Theory/Data Structures/01.Arrays/08.Coding challenges (LeetCode).md",
+    "Theory/Data Structures/01.Arrays/06.ArrayList(Dynamic Arrays).md",
+    "Theory/Data Structures/01.Arrays/07.How to Use an ArrayList.md",
+    "Assets/Images/Time Complexities.md",
+
     "Theory/Other/Strings and StringBuilder/08.String methods.md",
     "Theory/Other/Strings and StringBuilder/07.toString().md",
     "Theory/Other/Strings and StringBuilder/06.Pretty Printing.md",
@@ -154,17 +206,19 @@
     "Theory/Other/Strings and StringBuilder/03.String Creation.md",
     "Theory/Other/Strings and StringBuilder/02.String Comparison.md",
     "Theory/Other/Strings and StringBuilder/01.introduction.md",
-    "Theory/Data Structures/02.LinkedList/LinkedList.md",
-    "Theory/Data Structures/02.LinkedList/09.Coding challenges (HackerRank).md",
-    "Theory/Data Structures/01.Arrays/09.Coding challenges (HackerRank).md",
-    "Theory/Data Structures/01.Arrays/08.Coding challenges (LeetCode).md",
-    "Theory/Data Structures/01.Arrays/07.How to Use an ArrayList.md",
-    "Theory/Data Structures/01.Arrays/06.ArrayList(Dynamic Arrays).md",
-    "Theory/Data Structures/01.Arrays/05.Multidimensional Arrays.md",
-    "Theory/Data Structures/01.Arrays/04.Fixed Array Growth Technique.md",
-    "Assets/Resources/Data Structures and Algorithms in Java, 6th Edition.pdf",
-    "Theory/Data Structures/01.Arrays/03.How to Use an Array.md",
-    "Theory/Data Structures/01.Arrays/02.Internal Working of an Array.md",
-    "Theory/Data Structures/01.Arrays/01.Introduction.md"
+
+    "Assets/Images/String class.png",
+    "Assets/Images/Pasted image 202409121605468.png",
+    "Assets/Images/Pasted image 20240912160546.png",
+    "Assets/Images/Pasted image 20240912161135.png",
+    "Assets/Images/Pasted image 20240912161730.png",
+    "Assets/Images/Pasted image 20240912162349.png",
+    "Assets/Images/Pasted image 20240912163222.png",
+    "Assets/Images/Pasted image 202409121605461.png",
+    "Untitled.canvas",
+    "Untitled.md",
+    "Theory/Data Structures/01.Arrays/08.Coding challenges.md",
+    "Theory/Data Structures/01.Arrays/05.Multidimensional Arrays.md"
+
   ]
 }
