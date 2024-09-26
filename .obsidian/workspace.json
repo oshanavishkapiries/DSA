@@ -4,46 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "2e97e388f5d7a332",
+        "id": "a537cf351fec6d69",
         "type": "tabs",
         "children": [
           {
-            "id": "8dc80c6b8e21b4b0",
+            "id": "6c71c7a1d65af788",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Assets/Resources/Data Structures And Algorithms Made Easy - Narasimha Karumanchi.pdf"
-              }
-            }
-          },
-          {
-            "id": "70d355d6fcfc4574",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Assets/Resources/Data Structures and Algorithms in Java, 6th Edition.pdf"
-              }
-            }
-          },
-          {
-            "id": "da2252f64199e431",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Theory/RoadMAP.canvas",
-                "viewState": {
-                  "x": -408.8532098895598,
-                  "y": 230.97274534125904,
-                  "zoom": -2.3364276645824775
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5
+    "width": 202.5
   },
   "right": {
     "id": "afab80ef8d1617a9",
@@ -109,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theory/RoadMAP.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theory/RoadMAP.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Theory/RoadMAP.canvas"
-              }
+              "state": {}
             }
           }
         ]
@@ -169,13 +137,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "842920f3c0bb138e",
+  "active": "6c71c7a1d65af788",
   "lastOpenFiles": [
+    "Assets/Resources/Data Structures And Algorithms Made Easy - Narasimha Karumanchi.pdf",
+    "Assets/Resources/Data Structures and Algorithms in Java, 6th Edition.pdf",
+    "Untitled.canvas",
+    "Theory/Data Structures/02.LinkedList/08.Coding challenges (LeetCode).md",
+    "Theory/RoadMAP.canvas",
+    "Theory/Data Structures/02.LinkedList/09.Coding challenges (HackerRank).md",
+    "Theory/Data Structures/01.Arrays/08.Coding challenges (LeetCode).md",
     "README.md",
     "2024-09-21.md",
-    "Theory/RoadMAP.canvas",
-    "Assets/Resources/Data Structures and Algorithms in Java, 6th Edition.pdf",
-    "Assets/Resources/Data Structures And Algorithms Made Easy - Narasimha Karumanchi.pdf",
     "Theory/Data Structures/Data structures.md",
     "Assets/Resources/Competitive Programmers Handbook.pdf",
     "Assets/Resources/Data Structures And Algorithms Made Easy - narasimha karumanchi.pdf",
@@ -186,11 +158,9 @@
     "Assets/Resources/Untitled/Untitled.md",
     "Assets/Resources/Untitled",
     "Theory/Data Structures/01.Arrays/01.Introduction.md",
-    "Theory/Data Structures/02.LinkedList/09.Coding challenges (HackerRank).md",
     "Theory/Data Structures/02.LinkedList/LinkedList.md",
     "Theory/Data Structures/01.Arrays/Arrays.md",
     "Theory/Data Structures/01.Arrays/09.Coding challenges (HackerRank).md",
-    "Theory/Data Structures/01.Arrays/08.Coding challenges (LeetCode).md",
     "Theory/Data Structures/01.Arrays/06.ArrayList(Dynamic Arrays).md",
     "Theory/Data Structures/01.Arrays/07.How to Use an ArrayList.md",
     "Assets/Images/Time Complexities.md",
@@ -210,9 +180,7 @@
     "Assets/Images/Pasted image 20240912162349.png",
     "Assets/Images/Pasted image 20240912163222.png",
     "Assets/Images/Pasted image 202409121605461.png",
-    "Untitled.canvas",
     "Untitled.md",
-    "Theory/Data Structures/01.Arrays/08.Coding challenges.md",
-    "Theory/Data Structures/01.Arrays/05.Multidimensional Arrays.md"
+    "Theory/Data Structures/01.Arrays/08.Coding challenges.md"
   ]
 }

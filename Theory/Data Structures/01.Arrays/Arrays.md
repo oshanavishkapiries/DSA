@@ -5,6 +5,6 @@
 [[05.Multidimensional Arrays]]
 [[06.ArrayList(Dynamic Arrays)]]
 [[07.How to Use an ArrayList]]
-[[08.Coding challenges (LeetCode)]]
+[[Theory/Data Structures/01.Arrays/08.Coding challenges (LeetCode)]]
 [[Theory/Data Structures/01.Arrays/09.Coding challenges (HackerRank)|09.Coding challenges (HackerRank)]]
 
