@@ -49,6 +49,9 @@
 		{"id":"77fb018969c37de6","type":"text","text":"Heap Sort","x":2040,"y":292,"width":250,"height":60,"color":"5"},
 		{"id":"53b8c1e4901a4577","type":"text","text":"Memorization","x":2040,"y":-417,"width":250,"height":60,"color":"5"},
 		{"id":"85882c6d7657a91e","type":"text","text":"Tabulation ","x":2040,"y":-323,"width":250,"height":60,"color":"5"},
+
+		{"id":"48f468c9732d9828","type":"text","text":"KMP Algorithm","x":2040,"y":-570,"width":250,"height":60,"color":"2"},
+
 		{"id":"d9ab9564e78beff0","type":"text","text":"Ternary Search","x":1610,"y":557,"width":250,"height":60,"color":"5"},
 		{"id":"38ec373bcdfcffbd","type":"text","text":"DSA","x":-218,"y":-653,"width":250,"height":60,"color":"1"},
 		{"id":"39c5e3067fbcc7e4","type":"text","text":"Algorithm Analysis","x":-679,"y":-560,"width":250,"height":50,"color":"4"},
@@ -59,6 +62,7 @@
 		{"id":"ec1aacac213336d8","type":"text","text":"Breadth-First Search (BFS)","x":680,"y":74,"width":250,"height":50,"color":"5"},
 		{"id":"8524f18c46a31ee0","type":"text","text":"Hash Table Search","x":1610,"y":653,"width":250,"height":60,"color":"5"},
 		{"id":"5ebd8f79f7119351","type":"text","text":"A Search Algorithm*","x":1610,"y":733,"width":250,"height":60,"color":"1"},
+
 		{"id":"1a0cff7aa74a599a","type":"text","text":"Inorder Traversal ","x":1040,"y":-40,"width":200,"height":60,"color":"5"},
 		{"id":"276aa765d7ef77fd","type":"text","text":"Preorder Traversal","x":1040,"y":39,"width":200,"height":60,"color":"5"},
 		{"id":"6f556c8777d3ac40","type":"text","text":"Postorder Traversal ","x":1040,"y":117,"width":200,"height":60,"color":"5"},
@@ -98,6 +102,7 @@
 		{"id":"0c98cab04faef73b","type":"text","text":"Prim's algorithm","x":2370,"y":-600,"width":250,"height":60,"color":"1"},
 		{"id":"48f468c9732d9828","type":"text","text":"KMP Algorithm","x":1825,"y":-570,"width":250,"height":60,"color":"2"},
 		{"id":"1c222b58c8382795","type":"text","text":"Minimum spanning tree","x":1825,"y":-710,"width":250,"height":60,"color":"2"}
+
 	],
 	"edges":[
 		{"id":"604d174a44f1aaa6","fromNode":"38ec373bcdfcffbd","fromSide":"bottom","toNode":"ba05e77562e5aec4","toSide":"top"},
@@ -183,6 +188,7 @@
 		{"id":"51156ec06d865670","fromNode":"543b681a87d34034","fromSide":"right","toNode":"6f556c8777d3ac40","toSide":"left"},
 		{"id":"32978543d91b26ca","fromNode":"5d0fdf2256d746ab","fromSide":"right","toNode":"295d15153f3cecdb","toSide":"left"},
 		{"id":"dd807d6849fef3f6","fromNode":"295d15153f3cecdb","fromSide":"right","toNode":"69e2e1164180cfb2","toSide":"left"},
+
 		{"id":"6c70ddb461ac2f5d","fromNode":"295d15153f3cecdb","fromSide":"right","toNode":"002ba9019d8e7991","toSide":"left"},
 		{"id":"85f619c34bf766de","fromNode":"b373b878363d8b42","fromSide":"right","toNode":"7e212c9b2a6d15f0","toSide":"left"},
 		{"id":"d96a1772790d5e56","fromNode":"b373b878363d8b42","fromSide":"right","toNode":"970e030d3f2210fd","toSide":"left"},
@@ -199,5 +205,6 @@
 		{"id":"ccb158ac7726969d","fromNode":"216f5c74cac6f8ca","fromSide":"right","toNode":"1c222b58c8382795","toSide":"left"},
 		{"id":"164537dcab6c8158","fromNode":"1c222b58c8382795","fromSide":"right","toNode":"a5405d2d4c837008","toSide":"left"},
 		{"id":"7d19bbbafe097cbb","fromNode":"1c222b58c8382795","fromSide":"right","toNode":"0c98cab04faef73b","toSide":"left"}
+
 	]
 }
